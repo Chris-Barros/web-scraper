@@ -1,0 +1,24 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "scrapper of web",
+  "main": "scraper.py",
+  "dependencies": {
+    "pandas": "^1.0.5",
+    "requests": "^2.24.0",
+    "beautifulsoup4": "^4.9.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criiiissssssss/web-scraper.git"
+  },
+  "author": "chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criiiissssssss/web-scraper/issues"
+  },
+  "homepage": "https://github.com/criiiissssssss/web-scraper#readme"
+}
